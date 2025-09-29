@@ -4,7 +4,7 @@ git init: Iniciar repositório
 git status: Ver status
 git add: adicionar na staging area
 git commit: Salva as alterações dos arquvios selecionados
-git log: Ver todas as alterações que foram feitas no repositório0
+git log: Ver o último commit feito
 
 Dúvidas e dificuldades:
 
