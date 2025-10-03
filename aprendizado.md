@@ -1,3 +1,15 @@
+TIA BIA LINDA E MARAVILHOSA
+
+
+
+
+
+
+
+
+
+
+
 O que aprendi até agora:
 
 git init: Iniciar repositório
